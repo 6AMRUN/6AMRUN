@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lexi 
-- 👀 I’m interested in becoming an Data Analyst
+- 👀 I’m interested in becoming an Web Developer
 - 🌱 I’m currently learning python, sql, and other programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
