@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lexi 
 - 👀 I’m interested in becoming an Web Developer
 - 🌱 I’m currently learning python, sql, and other programming languages
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any front-end projects
 - 📫 How to reach me: krisafarinas@gmail.com
 
 <!---
